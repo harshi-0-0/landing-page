@@ -34,7 +34,6 @@ ul {
 
 .start {
     display: flex;
-    background-image: url("background_images/aesthetic-anime.gif");
     padding: 150px 256px;
     display: flex;
     gap: 50px;
