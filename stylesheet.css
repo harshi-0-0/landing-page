@@ -3,7 +3,7 @@ body {
  display: flex;
  flex-direction: column;
  color: white;
- background-image: ur("background_images/Shimura_tae-removebg-preview.png");
+ background-image: url("background_images/Shimura_tae-removebg-preview.png");
  background-repeat: no-repeat;
  background-size: contain;
 
